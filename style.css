@@ -1,11 +1,11 @@
-@import url("styles/header.css");
-@import url("styles/banner.css");
+@import url("./styles/banner.css");
+@import url("./styles/header.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
-    --amarelo: #FECD2F;
-    --roxo: #733887;
+    --cor-de-fundo: #c1b3ff;
+    --branco: #b73aff;
+    --amarelo: #ffffff;
+    --roxo: #ffffff;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
     --preto: #000000;
@@ -20,4 +20,8 @@ body {
 
 h1 {
     background-color: white;
+}
+
+.container__titulo{
+    background-color: var(--branco);
 }
