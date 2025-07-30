@@ -38,7 +38,7 @@ criaCartao(
 criaCartao(
     'Crepúsculo',
     'Qual o nome da filha de Bella e Edward?',
-    'Renesmee Cullen..'
+    'Renesmee Cullen.'
 )
 
 criaCartao(
